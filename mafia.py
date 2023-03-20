@@ -1,2 +1,2 @@
 #mafia game
-print('****** MAFIA ******')
+print('-----****** MAFIA ******-----')
