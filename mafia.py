@@ -1,1 +1,2 @@
 #mafia game
+print('****** MAFIA ******')
